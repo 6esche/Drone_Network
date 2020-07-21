@@ -1,7 +1,5 @@
 # Drone Network Analysis and Delay Prediction
 
-Exercise:
-
 It's July 26th in the year 2050. You are operating an international passenger transportation system with drones which are deployed in services around the world.
 Your network consists of regional services within a country and global services which connect multiple countries. All your services are circular services, that is, they start and end at the same location. Once they're back at the start location, a new rotation starts. Changing from service A to service B at a station which both services call is always possible.\
 The goal of this exercise is to analyze the current state of this network and to optimize it for the future.
